@@ -1,0 +1,3 @@
+[submodule "FireAndLandCoverByYear/WFRTL-land"]
+	path = FireAndLandCoverByYear/src/WFRTL-land
+	url = https://github.com/williamcdavies/WFRTL-land.git
